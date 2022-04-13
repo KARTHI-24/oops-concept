@@ -29,7 +29,7 @@ public class Methods {
 //        	cal.a=100;
 //        	cal.b=200;
 //        	cal.sum();
-	   int sum()
+	   int sum()//method return samevalue
 	   {
 		   return(a+b);
 	   }
