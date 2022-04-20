@@ -6,9 +6,9 @@ public class MethodOverloading {
 	int c;
 	 void sum()
 	{
-		 {	a=10;
+		 	a=10;
 		b=20;
-		c=30;}
+		c=30;
 		System.out.println(a+b+c);}
 	 void sum(int x, int y)
 	 {
